@@ -1,0 +1,16 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto JavaScript Profesional",
+  "license": "MIT",
+  "author": "Leonardo Javier Achear <leoachear@gmail.com>",
+  "keywords": [
+    "video player"
+  ],
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
